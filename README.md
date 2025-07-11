@@ -7,7 +7,7 @@
 
 "Where Earth Meets the Atom."
 
-PRITHVI-ANU is a nuclear + environment project by Ruthvik that explores low-level radiation detection, nuclear data visualization, and awareness systems for environmental safety. Aligned with BARC’s values of peace through atomic intelligence.
+PRITHVI-ANU is a nuclear + environment project by that explores low-level radiation detection, nuclear data visualization, and awareness systems for environmental safety. Aligned with BARC’s values of peace through atomic intelligence.
 
 ## 🎯 Objectives
 - Detect & visualize simulated radiation data
